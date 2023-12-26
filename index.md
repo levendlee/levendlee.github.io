@@ -2,7 +2,7 @@
 
 Software Engineer in Bellevue. C++ and Python programmer. Interested in machine learning, compiler, and architecture.
 
-From Beijing. Lived in Ann Arbor, Chicago, NYC, Seattle. Love cooking, traveling, and all the litte things in life.
+From Beijing. Lived in Ann Arbor, Chicago, NYC, and, Seattle. Love cooking, traveling, and all the little things in life.
 
 ## Professional
 [LinkedIn](https://www.linkedin.com/in/shikaili/) | [GitHub](https://github.com/levendlee) | [WordPress](https://levendlee.wordpress.com) | [LeetCode](https://leetcode.com/levendlee)
